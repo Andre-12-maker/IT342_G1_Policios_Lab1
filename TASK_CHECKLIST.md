@@ -4,7 +4,8 @@
 
 # \## DONE
 
-# \* \[Task Name] - \[Commit Hash]
+# \* \Initial project structure setup - \e0f9fe5
+# \* \Added project folder structure - \cdcee3c
 
 # 
 
